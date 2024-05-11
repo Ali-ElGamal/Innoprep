@@ -1,0 +1,9 @@
+/backend/venv
+/frontend/node_modules
+/backend/.env
+
+emotion-recognition/node_modules
+emotion-recognition/README.md
+emotion-recognition/.gitignore
+server/server
+server/__pycache__
